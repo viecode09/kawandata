@@ -15,7 +15,7 @@ const DesktopNav = () => {
     <div className='hidden lg:flex gap-x-8 items-center'>
       <Link href='/' className='flex space-x-2'>
         <Icons.logo className='h-6 w-6' aria-hidden='true' />
-        <span className='hidden font-bold lg:inline-block'>Skaters</span>
+        <span className='hidden font-bold lg:inline-block'>Kawan Data</span>
         <span className='sr-only'>Home</span>
       </Link>
       <NavigationMenu>

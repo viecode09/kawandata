@@ -8,10 +8,10 @@ import ClientProvider from '@/providers/ClientProvider'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Skaters',
-  description: 'An open source e-commerce project built by inifarhan',
+  title: 'KawanData',
+  description: 'Ecommerce Website To Get Leads Data',
   category: 'ecommerce',
-  authors: { name: 'inifarhan' },
+  authors: { name: 'kawandata' },
   keywords: [
     'Next.js',
     'React',
@@ -21,21 +21,21 @@ export const metadata: Metadata = {
     'Accessories',
     'Clothing',
   ],
-  creator: 'Muhammad Farhan Gunawan',
-  publisher: 'Muhammad Farhan Gunawan',
+  creator: 'KawanData',
+  publisher: 'KawanData',
   openGraph: {
-    title: 'Skaters',
-    description: 'An open source e-commerce project built by inifarhan',
-    url: 'https://skaters-inifarhan.vercel.app/',
-    siteName: 'Skaters',
-    images: 'https://skaters-inifarhan.vercel.app/images/screenshoot.PNG',
+    title: 'KawanData',
+    description: 'Ecommerce Website To Get Leads Data',
+    url: 'https://kawandata.com',
+    siteName: 'KawanData',
+    images: 'https://kawandata.com/images/screenshoot.PNG',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Skaters',
-    description: 'An open source e-commerce project built by inifarhan',
-    images: ['https://skaters-inifarhan.vercel.app/images/screenshoot.PNG'],
+    title: 'KawanData',
+    description: 'Ecommerce Website To Get Leads Data',
+    images: ['https://kawandata.com/images/screenshoot.PNG'],
   },
 }
 
